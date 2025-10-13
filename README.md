@@ -1,2 +1,12 @@
-# Shell-System-Health-Check-and-Monitoring-Script
-A Bash-based automation script that performs a comprehensive health check of a Linux system. The script collects real-time information on CPU usage, memory usage, disk utilization, running processes, logged-in users, and network status, then generates a readable report. 
+A simple and interactive Bash script for monitoring system performance, resource usage, and essential services on CentOS 7 / RHEL systems.
+Perfect for Linux admins, students, and DevOps beginners to understand system health in one place.
+
+⚙️ Features
+
+✅ CPU usage & load average
+✅ Memory (RAM) usage
+✅ Disk usage
+✅ Network IP information
+✅ Service status (sshd, firewalld, crond, etc.)
+✅ Logged-in users
+✅ Open ports (listening sockets)
